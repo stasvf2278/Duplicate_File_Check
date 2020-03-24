@@ -18,13 +18,13 @@ This script is written in the main() feature.
 
 Credits:
 
-I, Stanley Mordesky, wrote this for photography organization.
+I, stasvf2278, wrote this for photography organization.
 
 License:
 
 MIT License
 
-Copyright (c) 2020 Stanley Mordesky
+Copyright (c) 2020 stasvf2278
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
