@@ -26,4 +26,5 @@ def main():
             if i==j:
                 print(i)
 
-main()
+if name == "main":
+    main()
